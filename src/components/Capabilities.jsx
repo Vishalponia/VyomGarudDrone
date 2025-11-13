@@ -7,7 +7,7 @@ export default function Capabilities() {
       
       <video
         className="absolute inset-0 w-full h-full object-cover"
-        src="/video/bgvideo2.mp4" 
+        src="./video/bgvideo2.mp4" 
         autoPlay
         loop
         muted

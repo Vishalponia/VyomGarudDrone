@@ -8,7 +8,7 @@ export default function About() {
     
       <video
         className="absolute inset-0 w-full h-full object-cover"
-        src="/video/bgimage.mp4" 
+        src="./video/bgimage.mp4" 
         autoPlay
         loop
         muted
